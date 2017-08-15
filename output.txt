@@ -1,0 +1,43 @@
+Customer: Name: Yehia  Card: 22 Expiration Date:2017-08-16 Password:1422
+Customer: Name: Moe  Card: 11 Expiration Date:2011-08-16 Password:1322
+Customer: Name: Yehia  Card: 23 Expiration Date:2017-08-16 Password:5522
+Customer: Name: Johnny  Card: 21 Expiration Date:2020-08-16 Password:1412
+Customer: Name: Yehia  Card: 31 Expiration Date:2014-08-16 Password:1722
+Welcome to ATM System: Please enter ATM choice
+ATM_A1
+Please enter card Number
+11
+card is expired
+false
+try again
+Please enter card Number
+23
+card is not supported by ATM
+false
+try again
+Please enter card Number
+22
+card is authorized
+true
+Enter password
+1222
+Wrong password, try again
+Enter password
+1422
+enter amount to withdrawal or enter [2] to quit.
+100
+This amount exceeds the maximum amount you can withdraw per transaction
+The amount exceeds the current balance
+enter amount to withdrawal or enter [2] to quit.
+45
+The amount exceeds the current balance
+enter amount to withdrawal or enter [2] to quit.
+25
+40.0
+Your remaining balance is:  15.0
+enter amount to withdrawal or enter [2] to quit.
+15
+15.0
+Your remaining balance is:  0.0
+enter amount to withdrawal or enter [2] to quit.
+2
